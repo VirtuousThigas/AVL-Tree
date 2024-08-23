@@ -19,5 +19,5 @@ imprimir a mensagem: Paciente não cadastrado.
 5- Mostrar os CPFs de todos pacientes, usando o caminhamento pós-ordem. 
 6- Mostrar os e-mails de todos pacientes, usando o caminhamento pré-ordem. 
 7- Sair 
-## O programa deve ler a opção escolhida pelo usuário, ler os dados necessários e fazer o processamento. O programa 
+### O programa deve ler a opção escolhida pelo usuário, ler os dados necessários e fazer o processamento. O programa 
 deve ser executado até que a opção 7 seja escolhida pelo usuário.
